@@ -1,3 +1,9 @@
+from install_packages import install_package
+
+install_package('mediapipe')
+
+install_package('opencv-python')
+
 import cv2
 import mediapipe as mp
 import time  # 시간 추적을 위한 모듈
