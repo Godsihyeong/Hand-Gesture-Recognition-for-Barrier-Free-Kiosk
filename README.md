@@ -11,3 +11,19 @@ The model is highly effective, achieving an average confidence of 90%, an averag
 <img src="https://drive.google.com/uc?id=1iBLdht_pAQ1tcWYiX-xX1QeEjkx7XxXD" alt="Model Overview">
 
 Using Google's MediaPipe hand gesture recognition model, the model was trained and fine-tuned to recognize Korean Sign Language numbers.
+
+## Installation
+Clone this project:
+```bash
+git clone
+```
+
+Using `pip` and `requirements.txt`:
+```bash
+pip install -r requirements.txt
+```
+
+Using `conda` and `environment.yaml`:
+```bash
+conda env craete -f environment.yaml
+```
