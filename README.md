@@ -15,7 +15,7 @@ Using Google's MediaPipe hand gesture recognition model, the model was trained a
 ## Installation
 Clone this project:
 ```bash
-git clone
+git clone https://github.com/Godsihyeong/Hand-Gesture-Recognition-for-Barrier-Free-Kiosk.git
 ```
 
 Using `pip` and `requirements.txt`:
