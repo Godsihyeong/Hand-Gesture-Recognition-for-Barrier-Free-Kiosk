@@ -28,5 +28,17 @@ Using `conda` and `environment.yaml`:
 conda env craete -f environment.yaml
 ```
 
+## Run Model with Webcam.py
+You can run the fine-tuned model and test it using your laptop's webcam by executing the webcam.py script.
+This script utilizes the fine-tuned hand gesture recognition model and displays the predictions in real time.
+
+**Instructions:**
+1. Ensure that your environment is set up and all dependencies are installed.
+2. Run the following command in your terminal:
+```
+python webcam.py
+```
+3. The webcam feed will open, and the model's predictions for hand gestures will be displayed.
+
 ## License
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
